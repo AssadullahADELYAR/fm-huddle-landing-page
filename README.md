@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live preview](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/huddle-responsive-landing-page-with-alternating-feature-blocks-zI9JL7DT0t)
+- Live Site URL: [live preview](https://assadullahadelyar.github.io/fm-huddle-landing-page/)
 
 ## My process
 
